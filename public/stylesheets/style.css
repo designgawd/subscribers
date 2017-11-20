@@ -1,0 +1,28 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 90px;
+  line-height: 90px;
+  margin: 10px;
+}
+
+p.large {
+  margin-bottom: 0;
+  line-height: 28px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#counterContainer {
+  font-weight: bolder;
+  font-size: 18px;
+}
+.hide {
+  display: none;
+}
